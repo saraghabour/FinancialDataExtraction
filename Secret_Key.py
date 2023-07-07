@@ -1,1 +1,1 @@
-Openai_api_key = "fristkey"
+Openai_api_key = "Put your openai API key here"
